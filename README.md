@@ -16,7 +16,7 @@ This repository includes the code for the generation of the results of our paper
 
 - **article_distribution:** Analyzes the distribution of articles in the sample. Generates Figure 1 and Figure 2 (main text) and Figure S2 (appendix).
 
-- **journal_number:** Analyzes the composition of the sample in regard to the journals. Generates Table S3.
+- **journal_filter:** Analyzes the composition of the sample in regard to the journals. Generates Table S3.
 
 - **Bert_preprocess:** Contains all functions needed for preprocessing the textual data before using it with BERT.
 
