@@ -4,7 +4,7 @@ This repository includes the code for the generation of the results of our paper
 
 **NOTE:** The original news articles used in the code cannot be openly published due to copyright restrictions. For any questions regarding the dataset, please contact the corresponding author.
 
-**NOTE:** The trained model is available upon request.
+**NOTE:** Addtional results and the trained sentiment model are available upon request.
 
 ## Files and Functions
 
